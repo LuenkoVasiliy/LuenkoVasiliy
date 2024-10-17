@@ -1,6 +1,6 @@
-[[Header](https://github.com/LuenkoVasiliy/LuenkoVasiliy/blob/main/assets/Header.png)](https://luenkovasiliy.github.io/)
+[! [Header](https://github.com/LuenkoVasiliy/LuenkoVasiliy/blob/main/assets/Header.png)](https://luenkovasiliy.github.io/)
 
-About me
+## Меня зовут Василий, я QA Engineer
 
 Инструменты
 
@@ -15,3 +15,5 @@ About me
 Работа с базами данных
 
 Автотесты
+
+
