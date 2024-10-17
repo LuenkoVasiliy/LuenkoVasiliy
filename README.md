@@ -1,16 +1,17 @@
-## Hi there 👋
+[[Header](https://github.com/LuenkoVasiliy/LuenkoVasiliy/blob/main/assets/Header.png)](https://luenkovasiliy.github.io/)
 
-<!--
-**LuenkoVasiliy/LuenkoVasiliy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+About me
 
-Here are some ideas to get you started:
+Инструменты
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Тестирование API и интеграций
+
+Тестирование Web и Мобильных приложений
+
+Логи и мониторинги
+
+Тестовая документация
+
+Работа с базами данных
+
+Автотесты
