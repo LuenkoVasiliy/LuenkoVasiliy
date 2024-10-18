@@ -62,8 +62,8 @@
 ### Platforms:
 
 
-<a href="https://www.postman.com/" target="_blank">
-  <img src="https://github.com/LuenkoVasiliy/LuenkoVasiliy/blob/main/assets/Postman.png" alt="App Store" width="180"/>
+<a href="https://www.postman.com/">
+  <img src="https://github.com/LuenkoVasiliy/LuenkoVasiliy/blob/main/assets/Telegram.png" alt="Postman" width="180"/>
 </a>
 <a href="https://play.google.com/store/apps/dev?id=7235693910501061926" target="_blank">
   <img src="https://github.com/AlexeyShpavda/alexeyshpavda/blob/master/assets/google_play.png" alt="Google Play" width="180"/>
@@ -73,5 +73,6 @@
 </a>
 
 ### Telegram:
-
-[![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/Luenko_V)
+<a href="https://t.me/Luenko_V/">
+  <img src="https://github.com/LuenkoVasiliy/LuenkoVasiliy/blob/main/assets/Telegram.png" alt="Telegram" width="40" height="40"/>&nbsp
+</a>
