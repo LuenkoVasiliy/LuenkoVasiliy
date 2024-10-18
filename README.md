@@ -5,20 +5,15 @@
 ## Инструменты: 
 ### Тестирование API и интеграций
 <div>
-<a href="https://www.postman.com/">
   <img src="https://github.com/LuenkoVasiliy/LuenkoVasiliy/blob/main/assets/Postman.png" title="Postman" alt="Postman" width="40" height="40"/>
-  <a href="https://kafka.apache.org/">
   <img src="https://github.com/LuenkoVasiliy/LuenkoVasiliy/blob/main/assets/192107004-2d2fff80-d207-4916-8a3e-130fee5ee495.png" title="Kafka" alt="Kafka" width="40" height="40"/>
-  <a href="https://swagger.io/">
   <img src="https://github.com/LuenkoVasiliy/LuenkoVasiliy/blob/main/assets/Swagger.png" title="Swagger" alt="Swagger" width="40" height="40"/>
  
 </div>
 
 ### Тестирование Web и Мобильных приложений
 <div>
-<a href="https://www.figma.com/">
   <img src="https://github.com/LuenkoVasiliy/LuenkoVasiliy/blob/main/assets/Figma.png" title="Figma" alt="Figma" width="40" height="40"/>
-  <a href="https://www.charlesproxy.com/">
   <img src="https://github.com/LuenkoVasiliy/LuenkoVasiliy/blob/main/assets/charles.jpg" title="charles-proxy" alt="charles-proxy" width="40" height="40"/>
   <img src="https://github.com/LuenkoVasiliy/LuenkoVasiliy/blob/main/assets/HTTP.png" title="HTTP" alt="HTTP" width="40" height="40"/>
   <img src="https://github.com/LuenkoVasiliy/LuenkoVasiliy/blob/main/assets/HTML.png" title="HTML" alt="HTML" width="40" height="40"/>
