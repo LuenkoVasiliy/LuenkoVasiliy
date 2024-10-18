@@ -7,7 +7,7 @@
 ### Тестирование API и интеграций
 ![Postman](https://img.shields.io/badge/-Postman-090909?style-for-the-badge&logo-Postman)
 
-![Static Badge](https://img.shields.io/badge/:badgeContent)
+![Static Badge](https://github.com/LuenkoVasiliy/LuenkoVasiliy/blob/main/assets/postman.svg)
 
 
 
