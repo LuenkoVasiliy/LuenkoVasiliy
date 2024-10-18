@@ -7,8 +7,10 @@
 <div>
 <a href="https://www.postman.com/">
   <img src="https://github.com/LuenkoVasiliy/LuenkoVasiliy/blob/main/assets/Postman.png" title="Postman" alt="Postman" width="40" height="40"/>&nbsp
-  <img src="https://user-images.githubusercontent.com/25181517/192107004-2d2fff80-d207-4916-8a3e-130fee5ee495.png" title="Kafka" alt="Kafka" width="40" height="40"/>&nbsp
-  <img src="https://user-images.githubusercontent.com/25181517/186711335-a3729606-5a78-4496-9a36-06efcc74f800.png" title="Swagger" alt="Swagger" width="40" height="40"/>&nbsp
+  <a href="https://kafka.apache.org/">
+  <img src="https://github.com/LuenkoVasiliy/LuenkoVasiliy/blob/main/assets/192107004-2d2fff80-d207-4916-8a3e-130fee5ee495.png" title="Kafka" alt="Kafka" width="40" height="40"/>&nbsp
+  <a href="https://swagger.io/">
+  <img src="https://github.com/LuenkoVasiliy/LuenkoVasiliy/blob/main/assets/Swagger.png" title="Swagger" alt="Swagger" width="40" height="40"/>&nbsp
  
 </div>
 
