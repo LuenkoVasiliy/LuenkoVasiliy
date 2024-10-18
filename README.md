@@ -18,10 +18,14 @@
 <div>
 <a href="https://www.figma.com/">
   <img src="https://github.com/LuenkoVasiliy/LuenkoVasiliy/blob/main/assets/Figma.png" title="Figma" alt="Figma" width="40" height="40"/>&nbsp
+
   <a href="https://www.charlesproxy.com/">
   <img src="https://github.com/LuenkoVasiliy/LuenkoVasiliy/blob/main/assets/charles.jpg" title="charles-proxy" alt="charles-proxy" width="40" height="40"/>&nbsp
+
   <img src="https://github.com/LuenkoVasiliy/LuenkoVasiliy/blob/main/assets/HTTP.png" title="HTTP" alt="HTTP" width="40" height="40"/>&nbsp
+
   <img src="https://github.com/LuenkoVasiliy/LuenkoVasiliy/blob/main/assets/HTML.png" title="HTML" alt="HTML" width="40" height="40"/>&nbsp
+  
   <img src="https://github.com/LuenkoVasiliy/LuenkoVasiliy/blob/main/assets/CSS.png" title="CSS" alt="CSS" width="40" height="40"/>&nbsp
 </div>
 
