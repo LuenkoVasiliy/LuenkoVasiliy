@@ -22,34 +22,32 @@
 
 ### Логи и мониторинги
 <div>
-  <img src="" title="Kibana" alt="Kibana" width="40" height="40"/>&nbsp
-  <img src="" title="Sentry" alt="Sentry" width="40" height="40"/>&nbsp
-  <img src="" title="Grafana" alt="Grafana" width="40" height="40"/>&nbsp
-  <img src="" title="Jaeger" alt="Jaeger" width="40" height="40"/>&nbsp
+  <img src="https://github.com/LuenkoVasiliy/LuenkoVasiliy/blob/main/assets/kibana-logo.png" title="Kibana" alt="Kibana" width="40" height="40"/>&nbsp
+  <img src="https://github.com/LuenkoVasiliy/LuenkoVasiliy/blob/main/assets/Sentry.svg" title="Sentry" alt="Sentry" width="40" height="40"/>&nbsp
+  <img src="https://github.com/LuenkoVasiliy/LuenkoVasiliy/blob/main/assets/Grafana-Dark.svg" title="Grafana" alt="Grafana" width="40" height="40"/>&nbsp
+  <img src="https://github.com/LuenkoVasiliy/LuenkoVasiliy/blob/main/assets/Jaeger.jpeg" title="Jaeger" alt="Jaeger" width="40" height="40"/>&nbsp
 </div>
 
 ### Тестовая документация 
   <div>
-    <img src="" title="Yandex Tracker" alt="Yandex Tracker" width="40" height="40"/>&nbsp
-    <img src="" title="ClickUp" alt="ClickUp" width="40" height="40"/>&nbsp
-    <img src="" title="Test It" alt="Test It" width="40" height="40"/>&nbsp
-    <img src="" title="Notion" alt="Notion" width="40" height="40"/>&nbsp
+    <img src="https://github.com/LuenkoVasiliy/LuenkoVasiliy/blob/main/assets/YTacker.webp" title="Yandex Tracker" alt="Yandex Tracker" width="40" height="40"/>&nbsp
+    <img src="https://github.com/LuenkoVasiliy/LuenkoVasiliy/blob/main/assets/Test%20IT.png" title="Test It" alt="Test It" width="40" height="40"/>&nbsp
+    <img src="https://github.com/LuenkoVasiliy/LuenkoVasiliy/blob/main/assets/Notion-Dark.svg" title="Notion" alt="Notion" width="40" height="40"/>&nbsp
   </div>
 
 ### Работа с базами данных
 <div>
-  <img src="" title="PostgreSQL" alt="PostgreSQL" width="40" height="40"/>&nbsp
-  <img src="" title="Mongo DB" alt="Mongo DB" width="40" height="40"/>&nbsp
-  <img src="" title="Metabase" alt="Metabase" width="40" height="40"/>&nbsp
-  <img src="" title="DBeaver" alt="DBeaver" width="40" height="40"/>&nbsp
+  <img src="https://github.com/LuenkoVasiliy/LuenkoVasiliy/blob/main/assets/MongoDB.svg" title="Mongo DB" alt="Mongo DB" width="40" height="40"/>&nbsp
+  <img src="https://github.com/LuenkoVasiliy/LuenkoVasiliy/blob/main/assets/Metabase.svg" title="Metabase" alt="Metabase" width="40" height="40"/>&nbsp
+  <img src="https://github.com/LuenkoVasiliy/LuenkoVasiliy/blob/main/assets/DBeaver.png" title="DBeaver" alt="DBeaver" width="40" height="40"/>&nbsp
 </div>
 
 ### Автотесты
 <div>
-  <img src="" title="Visual Studio Code" alt="Visual Studio Code" width="40" height="40"/>&nbsp
+  <img src="https://github.com/LuenkoVasiliy/LuenkoVasiliy/blob/main/assets/VSCode.png" title="Visual Studio Code" alt="Visual Studio Code" width="40" height="40"/>&nbsp
 </div>
 
 ### Telegram:
 <a href="https://t.me/Luenko_V/">
-  <img src="" alt="Telegram" width="40" height="40"/>&nbsp
+  <img src="https://github.com/LuenkoVasiliy/LuenkoVasiliy/blob/main/assets/1708718087_.png" alt="Telegram" width="40" height="40"/>&nbsp
 </a>
