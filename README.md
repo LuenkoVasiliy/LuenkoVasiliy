@@ -58,3 +58,20 @@
   <img src="https://user-images.githubusercontent.com/25181517/192108376-c675d39b-90f6-4073-bde6-5a9291644657.png" title="GitLab" alt="GitLab" width="40" height="40"/>&nbsp
   <img src="https://user-images.githubusercontent.com/25181517/192108891-d86b6220-e232-423a-bf5f-90903e6887c3.png" title="Visual Studio Code" alt="Visual Studio Code" width="40" height="40"/>&nbsp
 </div>
+
+### Platforms:
+
+
+<a href="https://www.postman.com/" target="_blank">
+  <img src="https://github.com/LuenkoVasiliy/LuenkoVasiliy/blob/main/assets/Postman.png" alt="App Store" width="180"/>
+</a>
+<a href="https://play.google.com/store/apps/dev?id=7235693910501061926" target="_blank">
+  <img src="https://github.com/AlexeyShpavda/alexeyshpavda/blob/master/assets/google_play.png" alt="Google Play" width="180"/>
+</a>
+<a href="https://the-unl.com" target="_blank">
+  <img src="https://github.com/AlexeyShpavda/alexeyshpavda/blob/master/assets/the_unlimited.png" alt="The Unlimited" width="180"/>
+</a>
+
+### Telegram:
+
+[![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/Luenko_V)
