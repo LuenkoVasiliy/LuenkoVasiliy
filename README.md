@@ -51,8 +51,3 @@
 <a href="https://t.me/Luenko_V/">
   <img src="https://github.com/LuenkoVasiliy/LuenkoVasiliy/blob/main/assets/1708718087_.png" alt="Telegram" width="40" height="40"/>&nbsp
 </a>
-<style>
-p {
-  background-image: url(https://github.com/LuenkoVasiliy/LuenkoVasiliy/blob/main/assets/cat-morning-skin-light-color-hand-shape-1920x1080-px-computer-wallpaper-528934.jpgg);
-}
-</style>
