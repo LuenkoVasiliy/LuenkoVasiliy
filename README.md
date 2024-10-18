@@ -5,6 +5,11 @@
 ## Инструменты:
 
 ### Тестирование API и интеграций
+![Postman](https://img.shields.io/badge/-Postman-090909?style-for-the-badge&logo-Postman)
+
+![Static Badge](https://img.shields.io/badge/:badgeContent)
+
+
 
 ### Тестирование Web и Мобильных приложений
 
