@@ -47,6 +47,17 @@
   <img src="https://github.com/LuenkoVasiliy/LuenkoVasiliy/blob/main/assets/VSCode.png" title="Visual Studio Code" alt="Visual Studio Code" width="40" height="40"/>&nbsp
 </div>
 
+<br>
+<br>
+
+## Образование
+
+[<img src="/stepik-certificate-114354-89c95ac_page-0001.jpg" width="280px" hspace="10px" alt="Курс ООП">](https://github.com/LuenkoVasiliy/LuenkoVasiliy/edit/main/README.md#:~:text=vasilij_luenko_certificate_139_hours_ru)
+
+
+<br>
+<br>
+
 ### Telegram:
 <a href="https://t.me/Luenko_V/">
   <img src="https://github.com/LuenkoVasiliy/LuenkoVasiliy/blob/main/assets/1708718087_.png" alt="Telegram" width="40" height="40"/>&nbsp
