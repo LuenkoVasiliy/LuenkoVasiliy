@@ -49,7 +49,7 @@
 
 ## Образование
 <div>
-  <img src="https://github.com/LuenkoVasiliy/LuenkoVasiliy/edit/main/README.md#:~:text=vasilij_luenko_certificate_139_hours_ru" title="certificate" alt="certificate" width="100" height="100"/>&nbsp
+  <img src="https://github.com/LuenkoVasiliy/LuenkoVasiliy/blob/main/assets/vasilij_luenko_certificate_139_hours_ru.jpg" title="certificate" alt="certificate" width="400" height="400"/>&nbsp
 </div>
 
 ### Telegram:
